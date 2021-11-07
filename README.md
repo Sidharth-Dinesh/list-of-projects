@@ -1,81 +1,38 @@
 # Sidharth Dinesh's GitHub Projects
 A collection of all my projects on GitHub.
 
+### A
+- <a href="https://github.com/Sidharth-Dinesh/Absenteeism">Absenteeism</a>
+- <a href="https://github.com/Sidharth-Dinesh/Amazon_Hackathon_ML">Amazon_Hackathon_ML</a>
+
 ### B
-- <a href="https://github.com/rosajen27/bankist-ad">Bankist Ad</a>
-- <a href="https://github.com/rosajen27/bankist">Bankist App</a>
-- <a href="https://github.com/rosajen27/base-apparel">Base Apparel</a>
-- <a href="https://github.com/rosajen27/blog-template">Blog Template</a>
-- <a href="https://github.com/rosajen27/budget-tracker">Budget Tracker</a>
-
-
-### C
-- <a href="https://github.com/rosajen27/code-magazine">Code Magazine</a>
-- <a href="https://github.com/rosajen27/codequiz">Code Quiz</a>
-
-
-### D
-- <a href="https://github.com/rosajen27/dicegame">Dice Game</a>
-- <a href="https://github.com/rosajen27/drumkit">Drum Kit</a>
-
-
-### E
-- <a href="https://github.com/rosajen27/employee-directory">Employee Directory</a> (React)
-- <a href="https://github.com/rosajen27/employee-summary">Employee Summary</a>
-- <a href="https://github.com/rosajen27/employee-tracker">Employee Tracker</a>
-
+- <a href="https://github.com/Sidharth-Dinesh/Blackjack-game-on-Python">Blackjack-game-on-Python</a>
+- <a href="https://github.com/Sidharth-Dinesh/Breast-Cancer-Case-Study">Breast-Cancer-Case-Study</a>
 
 ### F
-- <a href="https://github.com/rosajen27/faq-card">FAQ Card</a>
+- <a href="https://github.com/Sidharth-Dinesh/Face-Recognition-using-OpenCV">Face-Recognition-using-OpenCV</a>
 
+### I
+- <a href="https://github.com/Sidharth-Dinesh/Image-Creation-with-GANs">Image Creation with GANs (Generative-Adversarial-Networks)</a>
+- <a href="https://github.com/Sidharth-Dinesh/Image-Recognition-WebApp">Image Recognition Web App</a>
+- <a href="https://github.com/Sidharth-Dinesh/IP-Camera-Monitoring">IP-Camera-Monitoring</a>
 
-### G
-- <a href="https://github.com/rosajen27/guess-my-number">Guess My Number</a>
-
-
-### K
-- <a href="https://github.com/rosajen27/keeper">Keeper</a> (React)
-
+### L
+- <a href="https://github.com/Sidharth-Dinesh/Titanic-Logistic-Regression">Logistic Regression model</a>
 
 ### M
-- <a href="https://github.com/rosajen27/modal-window">Modal Window</a>
-
-
-### N
-- <a href="https://github.com/rosajen27/news-app">News App</a> (React)
-- <a href="https://github.com/rosajen27/note-taker">Note Taker</a>
-
+- <a href="https://github.com/Sidharth-Dinesh/ML-Algorithms">Machine Learning Algorithms</a>
 
 ### O
-- <a href="https://github.com/rosajen27/omnifood">Omnifood</a>
-
-
-### P
-- <a href="https://github.com/rosajen27/pw-gen">Password Generator</a>
-- <a href="https://github.com/rosajen27/pig">Pig Game</a>
-- <a href="https://github.com/rosajen27/profile-card">Profile Card</a>
-
+- <a href="https://github.com/Sidharth-Dinesh/Object-Detection-using-SSD-PyTorch">Object-Detection-using-SSD-PyTorch</a>
 
 ### R
-- <a href="https://github.com/rosajen27/react-portfolio">React Portfolio</a>
-- <a href="https://github.com/rosajen27/README-Generator">README Generator</a>
-- <a href="https://github.com/rosajen27/robofriends">Robo Friends</a> (React)
-
+- <a href="https://github.com/Sidharth-Dinesh/Remote-controlled-6-switch-relay-system">Remote-controlled-6-switch-relay-system</a>
 
 ### S
-- <a href="https://github.com/rosajen27/simon">Simon</a>
-- <a href="https://github.com/rosajen27/cv2">Simple CV</a>
-- <a href="https://github.com/rosajen27/songster">Songster</a>
-
+- <a href="https://github.com/Sidharth-Dinesh/IoTIoT.in-Skilling">Skilling for IoTIoT.in</a>
+- <a href="https://github.com/Sidharth-Dinesh/Sudoku-Puzzle-Generator-Solver">Sudoku-Puzzle-Generator-Solver</a>
+- <a href="https://github.com/Sidharth-Dinesh/Smart-Third-Eye-Cane">Smart-Third-Eye-Cane</a>
 
 ### T
-- <a href="https://github.com/rosajen27/burger">Tasty Burger</a>
-- <a href="https://github.com/rosajen27/tindog">Tin Dog</a>
-- <a href="https://github.com/rosajen27/todolist">To Do List</a>
-- <a href="https://github.com/rosajen27/trip-reel">TripReel</a>
-
-
-### W
-- <a href="https://github.com/rosajen27/weather-dashboard">Weather Dashboard</a>
-- <a href="https://github.com/rosajen27/work-day-scheduler">Work Day Scheduler</a>
-- <a href="https://github.com/rosajen27/workout-tracker">Workout Tracker</a>
+- <a href="https://github.com/Sidharth-Dinesh/three-tac-toe">Three-Tac-Toe</a>
