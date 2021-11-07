@@ -9,6 +9,9 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/Sidharth-Dinesh/Blackjack-game-on-Python">Blackjack-game-on-Python</a>
 - <a href="https://github.com/Sidharth-Dinesh/Breast-Cancer-Case-Study">Breast-Cancer-Case-Study</a>
 
+### E
+- <a href="https://github.com/Sidharth-Dinesh/Edge-Computing">Edge-Computing</a>
+
 ### F
 - <a href="https://github.com/Sidharth-Dinesh/Face-Recognition-using-OpenCV">Face-Recognition-using-OpenCV</a>
 
