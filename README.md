@@ -14,7 +14,7 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/Sidharth-Dinesh/Event-Booking-App---GraphQL">Event-Booking-App---GraphQL</a>
 
 ### F
-- <a href="https://github.com/Sidharth-Dinesh/FaceGram-Django"FaceGram-Django</a>
+- <a href="https://github.com/Sidharth-Dinesh/FaceGram-Django">FaceGram-Django</a>
 - <a href="https://github.com/Sidharth-Dinesh/Face-Recognition-using-OpenCV">Face-Recognition-using-OpenCV</a>
 
 ### I
