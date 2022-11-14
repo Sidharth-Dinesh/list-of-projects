@@ -11,8 +11,10 @@ A collection of all my projects on GitHub.
 
 ### E
 - <a href="https://github.com/Sidharth-Dinesh/Edge-Computing">Edge-Computing</a>
+- <a href="https://github.com/Sidharth-Dinesh/Event-Booking-App---GraphQL">Event-Booking-App---GraphQL</a>
 
 ### F
+- <a href="https://github.com/Sidharth-Dinesh/FaceGram-Django"FaceGram-Django</a>
 - <a href="https://github.com/Sidharth-Dinesh/Face-Recognition-using-OpenCV">Face-Recognition-using-OpenCV</a>
 
 ### I
@@ -21,6 +23,7 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/Sidharth-Dinesh/IP-Camera-Monitoring">IP-Camera-Monitoring</a>
 
 ### L
+- <a href="https://github.com/Sidharth-Dinesh/LMS-SpringBoot-Angular">LMS-SpringBoot-Angular</a>
 - <a href="https://github.com/Sidharth-Dinesh/Titanic-Logistic-Regression">Logistic Regression model</a>
 
 ### M
