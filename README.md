@@ -9,6 +9,9 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/Sidharth-Dinesh/Blackjack-game-on-Python">Blackjack-game-on-Python</a>
 - <a href="https://github.com/Sidharth-Dinesh/Breast-Cancer-Case-Study">Breast-Cancer-Case-Study</a>
 
+### C
+- <a href="https://github.com/Sidharth-Dinesh/Covid19_Tracking">Covid19_Tracking</a>
+
 ### E
 - <a href="https://github.com/Sidharth-Dinesh/Edge-Computing">Edge-Computing</a>
 - <a href="https://github.com/Sidharth-Dinesh/Event-Booking-App---GraphQL">Event-Booking-App---GraphQL</a>
@@ -16,6 +19,9 @@ A collection of all my projects on GitHub.
 ### F
 - <a href="https://github.com/Sidharth-Dinesh/FaceGram-Django">FaceGram-Django</a>
 - <a href="https://github.com/Sidharth-Dinesh/Face-Recognition-using-OpenCV">Face-Recognition-using-OpenCV</a>
+
+### H
+- <a href="https://github.com/Sidharth-Dinesh/HotSpot-Analysis">HotSpot-Analysis</a>
 
 ### I
 - <a href="https://github.com/Sidharth-Dinesh/Image-Creation-with-GANs">Image Creation with GANs (Generative-Adversarial-Networks)</a>
