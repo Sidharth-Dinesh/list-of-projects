@@ -11,6 +11,8 @@ A collection of all my projects on GitHub.
 
 ### C
 - <a href="https://github.com/Sidharth-Dinesh/Covid19_Tracking">Covid19_Tracking</a>
+- <a href="https://github.com/Sidharth-Dinesh/Cloud-Image-Recognition">Cloud-Image-Recognition</a>
+
 
 ### E
 - <a href="https://github.com/Sidharth-Dinesh/Edge-Computing">Edge-Computing</a>
